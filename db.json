@@ -1277,5 +1277,14 @@
       "details": "ITEM#: 21503652\n\nPersonalize your seating area with the contemporary, versatile design of this 7-piece sectional set. The sectional features one right arm seat, one left arm seat, one corner seat, and four armless seats that can be arranged in the configuration that best fits your space. The firm, supportive cushioning and soft fabric give this sectional a modern appeal that will look great in your home.\n\n\n\n\n\nFeatures:\n\nBirch wood legs\nIncludes 1 right arm chair, 1 left arm chair, corner chair, and 4 armless chairs\n100-percent polyester upholstery\nMultiple color options\nDark brown leg finish\nAssembly required\n\n\nDimensions:\n\nLeft and Right Armed Chair: 32.00 Inches deep x 28.25 Inches wide x 34.75 Inches high\nCorner Chair Dimensions: 32.00 Inches deep x 32.00 Inches wide x 34.75 Inches high\nSeat: 19.00 Inches wide x 19.00 Inches deep x 19.00 Inches high\nArmless Chair Dimensions: 32.50 Inches deep x 24.50 Inches wide x 34.75 Inches high\nSeat: 24.50 Inches wide x 19.00 Inches deep x 19.00 Inches high",
       "id": 1
     }
+  ],
+  "users": [
+    { "name": "nikhil", "email": "nikhil@gmail.com", "password": "nikhil" }
+  ],
+  "history": [],
+  "admins": [
+    { "name": "nikhil", "email": "nikhil@gmail.com", "password": "nikhil" },
+    { "name": "vikesh", "email": "vikesh@gmail.com", "password": "vikesh" },
+    { "name": "shakil", "email": "shakil@gmail.com", "password": "shakil" }
   ]
 }
